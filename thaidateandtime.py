@@ -6,6 +6,7 @@ import time
 
 class thaidateandtime:
     __version__ = '0.9'
+    __doc__ = 'class for display date and time in thai lang.'
     CurYearThai = ''
     CurYearThai2 = ''
     MonthNameShort = {'01':'ม.ค.',
